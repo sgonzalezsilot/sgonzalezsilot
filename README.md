@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, NLP and Computer Vision
 - 🌱 I’m currently studiyng for a Data Science Master at University of Granada
 - 📫 Reach me at @: sgonzalezsilot@gmail.com or Linkedin: https://www.linkedin.com/in/sgonzalezsilot/
+- 🐤 Twitter: @sgonzalezsilot
 
 <!---
 sgonzalezsilot/sgonzalezsilot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
